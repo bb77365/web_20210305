@@ -5,7 +5,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>JSTL Choose</title>
+<title>JSTL Choose test</title>
 </head>
 <body>
    <ul>
